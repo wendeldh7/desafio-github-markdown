@@ -28,7 +28,7 @@ Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui t
 
 <div align="center"><img src="https://i.pinimg.com/originals/6b/7e/d3/6b7ed39c3751c92df2d3ece16a329925.gif") /></div>
 
-kkkkkkkkkkkkkkkkkkkkkkkkkkk
+
 Como desafio extra, sugiro que vocês se autentiquem utilizando algum método de segurança oferecido pelo Github, afinal, segurança é fundamental 🔒.
 
 Crie branches para o seu projeto e realizem merge das alterações. Treinem os comandos do Git, afinal, eles fazem parte do dia a dia de um desenvolvedor(a) colaborativo 😉.
